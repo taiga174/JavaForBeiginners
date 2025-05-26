@@ -6,8 +6,10 @@ public class Start {
 		//MyFrame frame1 = new RectTest();/
 		//System.out.println("プログラムを実行します");
 		//MyFrame trame1 = new OvalTest();
+		//System.out.println("プログラムを実行します");
+		//MyFrame trame1 = new TextTest();
 		System.out.println("プログラムを実行します");
-		MyFrame trame1 = new TextTest();
+		MyFrame trame1 = new carTest();
 // TODO 自動生成されたメソッド・スタブ
 
 	}
