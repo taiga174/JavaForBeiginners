@@ -8,8 +8,13 @@ public class Start {
 		//MyFrame trame1 = new OvalTest();
 		//System.out.println("プログラムを実行します");
 		//MyFrame trame1 = new TextTest();
-		System.out.println("プログラムを実行します");
-		MyFrame trame1 = new carTest();
+		//System.out.println("プログラムを実行します");
+		//MyFrame trame1 = new carTest();
+		//System.out.println("プログラムを実行します");
+		//MyFrame trame1 = new RectLoop();
+		//MyFrame trame1 = new RectIf();
+		//MyFrame frame1 = new DisplayRectsSlow();
+		MyFrame frame1 = new Animation();
 // TODO 自動生成されたメソッド・スタブ
 
 	}
