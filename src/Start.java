@@ -18,8 +18,10 @@ public class Start {
 		//MyFrame frame1 = new Animation();
 		//MyFrame frame1 = new DisplayFace();
 		//MyFrame f = new DisplayFaceObject();
-		MyFrame f = new DisplayFaceVector();
+		//MyFrame f = new DisplayFaceVector();
 		//MyFrame f = new  DisplayFaceAndTree();
+		//MyFrame f = new DisplayCars();
+		MyFrame f = new DisplayCarTrain();
 // TODO 自動生成されたメソッド・スタブ
 
 	}

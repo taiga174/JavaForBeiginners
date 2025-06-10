@@ -18,10 +18,10 @@ public class DisplayFaceObject extends MyFrame{
 //	}練習6.2
 		Face[] faces = new Face[5];
 		faces[0] = new Face(50,50,10,5);
-		faces[1] = new Face(200,100,-10,-5);
-		faces[2] = new Face(0,100,5,0);
-		faces[3] = new Face(200,100,-5,0);
-		faces[4] = new Face(100,0,0,5);
+		faces[1] = new Face(100,100,-10,-5);
+		faces[2] = new Face(150,150,5,0);
+		faces[3] = new Face(200,200,-5,0);
+		faces[4] = new Face(250,250,0,5);
 		
 		for (int i=0; i<30; i++) {
 			clear();
@@ -30,6 +30,7 @@ public class DisplayFaceObject extends MyFrame{
 				faces[j].move();
 			}
 			
+
 		}
 	}
 }
