@@ -21,7 +21,8 @@ public class Start {
 		//MyFrame f = new DisplayFaceVector();
 		//MyFrame f = new  DisplayFaceAndTree();
 		//MyFrame f = new DisplayCars();
-		MyFrame f = new DisplayCarTrain();
+		//MyFrame f = new DisplayCarTrain();
+		MyFrame f = new PlayerAnimation();
 // TODO 自動生成されたメソッド・スタブ
 
 	}
